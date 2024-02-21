@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(0, 102, 255);
+}
+
+
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    width: 40%;
+    margin: auto;
+    list-style: none;
+}
+
+.square{
+    width: 100px;
+    aspect-ratio: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: paleturquoise;
+}
+
+.fb{
+    background-color: palevioletred;
+}
+
+.f{
+    background-color: palegreen;
+}
+
+.b{
+    background-color: palegoldenrod;
+}
